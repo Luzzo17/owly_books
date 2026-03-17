@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://luzzo_17.github.io/owly_books/",
+  "homepage": "https://luzzo17.github.io/owly_books/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
